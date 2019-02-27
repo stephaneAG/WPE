@@ -3,7 +3,8 @@ AS of 27/02/2019, I now have something working thanks to the following tutorials
 - https://medium.com/@decrocksam/building-wpe-webkit-for-raspberry-pi-3-cdbd7b5cb362
 
 For the above one, the author provides us with a 124Mo "sdcard.img" wich by default boots in ~15 seconds & 
-then waits for the network to be connected in order to offer a remote ui accessible at the device's ip address
+then waits for the network to be connected in order to offer a remote ui accessible at the device's ip address.
+The corresponding shorter how-to resides at: [README_buildingWPEWebkitforRPi3.MD](README_buildingWPEWebkitforRPi3.MD)
 
 - https://medium.com/@decrocksam/building-web-applications-for-wpe-webkit-using-node-js-3347146013f3
 
