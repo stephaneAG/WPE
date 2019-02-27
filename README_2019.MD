@@ -11,5 +11,6 @@ The corresponding shorter how-to resides at: [README_buildingWPEWebkitforRPi3.MD
 For this one, the author provides us a 231Mo "wpewebkit-and-tools-2.img" that seems to give me troubles ( it seems "reboot" 
 is not making the device reboot but crash instead ), ssh refuses connection & can't resize the partition .. but this one is supposed
 to offer nodejs as well as a user other than root ;)
+The corresponding shorter how-to resides at: [README_WPEfullscreenWebAppforRPi3.MD](README_WPEfullscreenWebAppforRPi3.MD) 
 
 Transcripts are in the related readmes ;p
