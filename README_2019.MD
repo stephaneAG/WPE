@@ -2,6 +2,11 @@ As of 27/02/2019, I now have something working thanks to the following tutorials
 
 R: comparison of RPi models: http://socialcompare.com/fr/comparison/raspberrypi-models-comparison
 
+#### Maybe still relevant in order to use a small screen, a mouse, or a touchscreen ..
+- https://github.com/balena-io-projects/balena-wpe#loading-a-url
+
+#### The studied & partially applied knowledge
+
 - https://medium.com/@decrocksam/building-wpe-webkit-for-raspberry-pi-3-cdbd7b5cb362
 
 For the above one, the author provides us with a 124Mo "sdcard.img" wich by default boots in ~15 seconds & 
