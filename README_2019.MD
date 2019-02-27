@@ -1,4 +1,6 @@
-AS of 27/02/2019, I now have something working thanks to the following tutorials:
+As of 27/02/2019, I now have something working thanks to the following tutorials:
+
+R: comparison of RPi models: http://socialcompare.com/fr/comparison/raspberrypi-models-comparison
 
 - https://medium.com/@decrocksam/building-wpe-webkit-for-raspberry-pi-3-cdbd7b5cb362
 
